@@ -35,7 +35,7 @@ It demonstrates how retail managers can monitor and optimize store efficiency, s
 
 ## **How to View**
 
- Download the `.pbix` file from `/pbix/`.  
+ Download the `.pbix` file: https://github.com/saadurrehman1/Retail-Store-Ops-Dashboard/blob/main/Retail_Store_Ops_Dashboard.pbix  
  Open in **Power BI Desktop** to explore filters & visuals interactively.
 
 ---
