@@ -40,7 +40,7 @@ It demonstrates how retail managers can monitor and optimize store efficiency, s
 
 ---
 
-** Author:** *Saad Ur Rehman · 2025*
+Author: *Saad Ur Rehman · 2025*
 
 ---
 
